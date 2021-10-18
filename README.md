@@ -8,13 +8,27 @@
 | Institusi | jti.polinema.ac.id |
 
 
-## Data Diri
-
+## Data Diri Kelompok
+### Ketua
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
-| Kelas | TI-3D/3E |
+| NIM | **2041723015** |
+| Nama Lengkap | **Fathin Naufaliya** |
+| Kelas | TI-3E |
+
+### Anggota 1
+|  |  |
+|--|--|
+| NIM | **2041723005** |
+| Nama Lengkap | **Thalia Amira Rifda** |
+| Kelas | TI-3E |
+
+### Anggota 2
+|  |  |
+|--|--|
+| NIM | **2041723006** |
+| Nama Lengkap | **Muhammad Tyone Noor Satria** |
+| Kelas | TI- 3E |
 
 
 ## Struktur Folder
