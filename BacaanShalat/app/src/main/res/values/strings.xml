@@ -21,8 +21,8 @@
     <string name="doaitidal2">َّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَمِلْءَ الأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍ بَعْدُ</string>
     <string name="sujud">Setelah gerakan itidal, dilanjutkan dengan melakukan sujud pertama membaca (Allahu Akbar) dengan tuma’ninah dengan membaca bacaan sujud. \nBacaan Sujud :</string>
     <string name="doasujud">Dibaca 3x \n سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ</string>
-    <string name="duduk2sujud">Setelah selesai sujud pertama maka dilanjutkan bangun dari sujud membaca (Allahu Akbar) lalu melakukan tasyahud awal (duduk diantara 2 sujud) dengan posisi duduk tawaruk. Dilanjutkan dengan membaca bacaan duduk diantara 2 sujud. \nBacaan Tasyahud Awal :</string>
-    <string name="doaduduk2sujud"></string>
+    <string name="duduk2sujud">Setelah selesai sujud pertama maka dilanjutkan bangun dari sujud membaca (Allahu Akbar) lalu melakukan duduk diantara 2 sujud dengan posisi duduk tawaruk. Dilanjutkan dengan membaca bacaan duduk diantara 2 sujud. \nBacaan Duduk Diantara Dua Sujud :</string>
+    <string name="doaduduk2sujud">رَبِّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَاجْبُرْنِيْ وَارْفَعْنِيْ وَارْزُقْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَاعْفُ عَنِّيْ</string>
 
 
 </resources>
