@@ -30,7 +30,7 @@
             android:layout_height="320dp"
             android:layout_gravity="center"
             android:layout_margin="10dp"
-            android:src="@drawable/tasyahudawal" />
+            android:src="@drawable/duduk" />
 
         <TextView
             android:layout_width="match_parent"

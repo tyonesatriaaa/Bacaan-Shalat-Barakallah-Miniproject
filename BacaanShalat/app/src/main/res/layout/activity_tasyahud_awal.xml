@@ -14,25 +14,16 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/tasyahudawal"
+            android:id="@+id/tahiyatawal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="75dp"
-            android:layout_marginBottom="10dp"
+            android:layout_marginBottom="20dp"
             android:fontFamily="sans-serif-black"
-            android:text="TASYAHUD AWAL"
+            android:text="TAHIYAT AWAL"
             android:textColor="@color/black"
             android:textSize="40sp" />
-        <TextView
-            android:id="@+id/tasyahudawal2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:fontFamily="sans-serif-black"
-            android:text="(Duduk Diantara Dua Sujud)"
-            android:textColor="@color/black"
-            android:textSize="20sp" />
 
         <ImageView
             android:layout_width="1000px"
@@ -46,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:text="@string/tasyahudawal"
+            android:text="@string/tahiyatawal"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -56,7 +47,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
-            android:text="@string/doatasyahudawal"
+            android:text="@string/doatahiyatawal"
             android:textColor="@color/black"
             android:textSize="30sp" />
 
