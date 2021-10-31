@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bacaanshalat"
+    tools:context=".Iftitah"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--        <TextView-->
+<!--            android:id="@+id/txtHeader2"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_below="@id/txtHeader1"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            android:text="Bacaan Iftitah dan caranya"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:textSize="18sp" />-->
+<!--        <RelativeLayout-->
+<!--            android:layout_marginTop="40dp"-->
+<!--            android:layout_marginRight="20dp"-->
+<!--            android:layout_marginLeft="20dp"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/txtHeader1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginTop="30dp"-->
+<!--                android:text="IFTITAH"-->
+<!--                android:fontFamily="sans-serif-black"-->
+<!--                android:textColor="@color/black"-->
+<!--                android:textSize="30sp" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/txtHeader2"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_below="@id/txtHeader1"-->
+<!--                android:layout_marginTop="6dp"-->
+<!--                android:text="Bacaan Iftitah dan caranya"-->
+<!--                android:textColor="@color/black"-->
+<!--                android:textSize="18sp" />-->
+
+<!--        </RelativeLayout>-->
+
+        <TextView
+            android:id="@+id/txtHeader1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="75dp"
+            android:fontFamily="sans-serif-black"
+            android:text="IFTITAH"
+            android:textColor="@color/black"
+            android:textSize="40sp" />
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="587dp"-->
+<!--            android:layout_below="@id/txtHeader4"-->
+<!--            android:layout_marginTop="130dp"-->
+<!--            android:orientation="vertical">-->
+
+        <ImageView
+            android:layout_width="1000px"
+            android:layout_height="320dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:src="@drawable/iftitah" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/iftitah"
+                android:background="@color/purple_700"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/doaiftitah"
+                android:textColor="@color/black"
+                android:textSize="25sp" />
+
+
+<!--        </LinearLayout>-->
+
+
+    </LinearLayout>
+
+</ScrollView>
