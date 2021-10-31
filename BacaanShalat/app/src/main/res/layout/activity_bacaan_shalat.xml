@@ -109,11 +109,11 @@
                 android:textSize="16sp" />
 
             <Button
-                android:id="@+id/tasyahudawal"
+                android:id="@+id/tahiyatawal"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Tasyahud Awal"
+                android:text="Tahiyat Awal"
                 android:textColor="@android:color/black"
                 android:textSize="16sp" />
 

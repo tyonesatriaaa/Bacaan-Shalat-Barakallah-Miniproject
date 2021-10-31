@@ -23,6 +23,12 @@
     <string name="doasujud">Dibaca 3x \n سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ</string>
     <string name="duduk2sujud">Setelah selesai sujud pertama maka dilanjutkan bangun dari sujud membaca (Allahu Akbar) lalu melakukan duduk diantara 2 sujud dengan posisi duduk tawaruk. Dilanjutkan dengan membaca bacaan duduk diantara 2 sujud. \nBacaan Duduk Diantara Dua Sujud :</string>
     <string name="doaduduk2sujud">رَبِّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَاجْبُرْنِيْ وَارْفَعْنِيْ وَارْزُقْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَاعْفُ عَنِّيْ</string>
+    <string name="tahiyatawal">Untuk rakaat kedua setelah melakukan sujud kedua, tidak langsung berdiri untuk melanjutkan rakaat berikutnya.Namun pada rakaat kedua ini setelah sujud kedua dilanjutkan dengan duduk Tawaruk dan membaca doa tahiyat awal. \nBacaan Tahiyat Awal :</string>
+    <string name="doatahiyatawal">"اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ. اَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ. اَلسَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِيْنَ. أَشْهدُ اَنْ لاَإِلَهَ إِلاَّ اللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهِ"</string>
+    <string name="doatasyahudakhir">Dilanjut dengan Bacaan Sholawat Nabi : \nاَللَّهُمَّ صَلِّ عَلىَ مُحَمَّدٍ وَعَلىَ آلِ مُحَمَّدٍ كَماَ صَلَّيْتَ عَلىَ إِبْرَاهِيْمَ وَعَلىَ آلِ إِبْرَاهِيْمَ إِنـَّكَ حَمِيْدٌ مَجِيْدٌ اَللَّهُمَّ باَرِكْ عَلىَ مُحَمَّدٍ وَعَلىَ آلِ مُحَمَّدٍ كَماَ باَرَكْتَ عَلىَ إِبْرَاهِيْمَ وَعَلىَ آلِ إِبْرَاهِيْمَ إِنـَّكَ حَمِيْدٌ مَجِيْدٌ</string>
+    <string name="tasyahudakhir">Untuk rakaat terakhir atau rakaat kedua, ketiga atau keempat, setelah sujud terakhir maka dilanjutkan denga duduk iftirasy.Ketika melakukan duduk iftirasy pada rakaat terakhir setelah sujud terakhir, dilanjutkan dengan membaca doa tahiyat Akhir. yang bacaannya sama dengan bacaan doa tahiyat Awal.Hanya pada tahiyat akhir dilanjutkan dengan membaca doa sholawat nabi yang ditukukan kepada nabi Ibrahim dan nabi Muhammad. \nBacaanTasyahudAkhir :</string>
+    <string name="salam">Gerakan dan bacaan terakhir dalam sholat adalah dengan mengucapkan salam dua kali dengan menoleh ke arah kanan dan ke arah kiri. \nBacaan Salam :</string>
+    <string name="doasalam">"السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ"</string>
 
 
 </resources>
